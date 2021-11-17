@@ -1,0 +1,20 @@
+Created parking of 6 slots
+Allocated to slot number: 1
+Allocated to slot number: 2
+Allocated to slot number: 3
+Allocated to slot number: 4
+Allocated to slot number: 5
+Allocated to slot number: 6
+Slot number 4 is Free 
+Slot No.  Registration No.  Colour
+1         KA-01-HH-1234     White
+2         KA-01-HH-9999     White
+3         KA-01-BB-0001     Black
+5         KA-01-HH-2701     Blue
+6         KA-01-HH-3141     Black
+Allocated to slot number: 4
+Sorry, parking lot is full
+KA-01-HH-1234, KA-01-HH-9999, KA-01-P-333
+1, 2, 4
+6
+Not found 

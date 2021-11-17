@@ -1,0 +1,2 @@
+Leave 4
+create_parking_lot 6

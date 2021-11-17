@@ -1,0 +1,2 @@
+registration_numbers_for_cars_with_colour White 
+slot_numbers_for_cars_with_colour Black
